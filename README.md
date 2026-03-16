@@ -127,3 +127,10 @@ wx：Awake778
 - **自动化测试**: 接口测试（基于Java/Postman）, 自动化测试（基于Java）
 - **自动化运维与监控**:
     - 自动化部署（基于Java）
+
+# 项目TAG（标签）
+## 中文标签
+班级管理系统、校园管理系统、Java Web、SpringMVC、MyBatis、Layui、Bootstrap、MySQL、多角色权限、考勤管理、成绩管理、班费管理、班级活动、课表管理、公告管理、学生管理、教师管理、Apache、Tomcat、Postman
+
+## 英文标签
+campus-class-management-system、java-web、springmvc、mybatis、layui、bootstrap、mysql、multi-role-permissions、attendance-management、grade-management、class-fee-management、class-activities、timetable-management、announcement-management、student-management、teacher-management、apache、tomcat、postman
